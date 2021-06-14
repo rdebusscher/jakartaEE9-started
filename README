@@ -1,0 +1,16 @@
+Example code for the "Getting Started with Jakarta EE 9 Series"
+
+
+## Hello World (Coming soon)
+
+Or Jakarta Servlets
+
+See directory _Hello_
+
+## JAX-RS
+
+See directory _JAX-RS_
+
+## Context and Dependency Injection  (Coming soon)
+
+See directory _CDI_
