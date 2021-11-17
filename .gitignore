@@ -44,3 +44,7 @@ crashlytics-build.properties
 # Arquillian  (warp)
 lib
 log.txt
+
+# Snyk
+
+.dcignore
