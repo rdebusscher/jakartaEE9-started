@@ -1,0 +1,9 @@
+Example code for the "Getting Started with Jakarta EE 9: Jakarta Persistence API (JPA)"
+
+Blog: https://blog.payara.fish/getting-started-with-jakarta-ee-9-jakarta-persistence-api-jpa
+Video - Part A: https://www.youtube.com/watch?v=ZFvPWSl5n54
+Video - Part B: https://www.youtube.com/watch?v=PCfCRMsc9Ug
+
+## Setup
+
+Make sure you also look at the `commands.txt` and `prepare.sh` files to start a MySQL database as a Docker image, prepare the Conection pool within Payara Server and the different commands to test out the application.
