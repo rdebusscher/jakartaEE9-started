@@ -1,11 +1,14 @@
 Example code for the "Getting Started with Jakarta EE 9 Series"
 
 
-## Hello World (Coming soon)
+## Hello World
 
 Or Jakarta Servlets
 
-See directory _Hello_
+With Maven, see directory _servlets_.
+
+With gradle, see directory _gradle_. 
+
 
 ## JAX-RS
 
