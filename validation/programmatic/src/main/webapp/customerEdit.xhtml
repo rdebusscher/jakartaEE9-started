@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+        xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+<h:head>
+    <title>Title</title>
+</h:head>
+
+<h:body>
+    <h:messages />
+    <h:form>
+        Name : <h:inputText value="#{customerEditBean.customer.name}" /><br/>
+        Country code : <h:inputText value="#{customerEditBean.customer.countryCode}" label="Country Code" >
+
+    </h:inputText>
+        <br/>
+        Tax ID : <h:inputText value="#{customerEditBean.customer.taxId}" label="Tax Id" >
+
+    </h:inputText>
+
+        <br/>
+        <h:commandButton value="Save" actionListener="#{customerEditBean.save}"/>
+    </h:form>
+</h:body>
+
+</html>

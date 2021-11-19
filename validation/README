@@ -1,0 +1,11 @@
+Example code for the "Getting Started with Jakarta EE 9: Jakarta Validation"
+
+Blog: coming soon
+Video - Part A: coming soon
+Video - Part B: coming soon
+
+3 different examples available
+
+rest : Combine Jakarta Validation with Jakarta REST
+jsf : Combine Jakarta Validation with Jakarta Faces
+programmatic : Use Jakarta Validation programmatic in the business layer and integrate exception handling with JSF
